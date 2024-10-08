@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnubhavDubey254
-- 👀 I’m interested in Python/Android Studio
-- 🌱 I’m currently learning Kotlin and C++
+- 👀 I’m interested in Python/WebDev
+- 🌱 I’m currently learning JS and C++
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me 
 - 😄 Pronouns: ...
